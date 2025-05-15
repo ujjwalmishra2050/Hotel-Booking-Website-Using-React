@@ -1,9 +1,10 @@
 import React from 'react'
 import Hero from '../Components/hero'
-const Home = () => {
+
+const Home = () => {  // ✅ Capitalized correctly
   return (
     <>
-    <Home />
+      <Hero />
     </>
   )
 }
